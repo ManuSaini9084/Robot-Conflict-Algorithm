@@ -27,9 +27,6 @@ To prioritize which robot gains access to the common path (aisle), the following
 - **Scalability**: The system uses a priority queue to handle increasing numbers of robots efficiently.
 
 
-## Image
-
-[Uploading a8c2c16f-6e16-4487-9b49-5dcb2e1020c8.webp…]()
 ---
 
 ## Task 2: Algorithm Design
